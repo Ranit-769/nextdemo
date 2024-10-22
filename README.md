@@ -1,2 +1,2 @@
 # nextdemo
-it's a next practice demo
+it's a next practice demo.
